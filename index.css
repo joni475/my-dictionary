@@ -28,11 +28,11 @@ body {
     font-size: 2.5rem;
     font-weight: 600;
     text-decoration: underline;
-    margin-bottom: 25px;
+    margin: 10px 0 25px 0;
 }
 .dictionary-meaning {
     font-size: 1.5rem;
-    margin-bottom: 25px;
+    margin: 10px 0 25px 0;
 }
 button {
     font-family: 'Montserrat', sans-serif;
@@ -58,6 +58,7 @@ button:active {
     display: flex;
     align-items: center;
     justify-content: center;  
+    margin: 5px 0 15px 0;
 }
 @media screen and (max-width: 1000px) {
   .dictionary-container {
