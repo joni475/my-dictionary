@@ -2015,4 +2015,277 @@ const dictionary = [
         word: "Smug",
         meaning: "Having or showing an excessive pride in oneself or one's achievement.",
     },
+    {
+        word: "Taxing",
+        meaning: "Physically or mentally demanding."
+    },
+    {
+        word: "Clungy",
+        meaning: "Awkwardly solid, heavy, and outdated."
+    },
+     {
+        word: "Savvy",
+        meaning: "Shrewd and Knowledgeable; having common sense and good judgement."
+    },
+     {
+        word: "Shrewd",
+        meaning: "Having or showing sharp powers of judgement; astute."
+    },
+     {
+        word: "Dissuade",
+        meaning: "Persuade someone not to take a particular course of action; poosoite of persuade."
+    },
+     {
+        word: "Ephemeral",
+        meaning: "Lasting for a very short time."
+    },
+     {
+        word: "Derive",
+        meaning: "Obtain something from a specified source."
+    },
+     {
+        word: "Negligible",
+        meaning: "So small or unimportant as to be not worth considering; insignigicant."
+    },
+     {
+        word: "Wonky",
+        meaning: "Crooked; off-center; askew, unsteady."
+    },
+     {
+        word: "Askey",
+        meaning: "Not in a straight  or lever position."
+    },
+     {
+        word: "permutation",
+        meaning: "A way, especially one of several possible variations, in which a set or number
+             of things can be ordered or arranged."
+    },
+     {
+        word: "Assert",
+        meaning: "A confident and forceful statement of fact or belief."
+    },
+     {
+        word: "Underdog",
+        meaning: "A loser or predicted loser in a struggle or contest."
+    },
+     {
+        word: "Tendem",
+        meaning: "A group of two people or things that work together or are associated with each other."
+    },
+     {
+        word: "Invluable",
+        meaning: "Extremely useful; indispensable."
+    },
+     {
+        word: "Nuance",
+        meaning: "A subtle difference in or shade of meaning, expression, or sound."
+    },
+     {
+        word: "Scope",
+        meaning: "The extent of the area or subject matter that something deals with or to which it is relevant."
+    },
+     {
+        word: "Contigency",
+        meaning: "A future event or circumstance which is possible but cannot be predicted with certainity."
+    },
+     {
+        word: "Sincere",
+        meaning: "Free from pretense or deceit; proceeding from genuine feelings."
+    },
+     {
+        word: "Let bygones be bygones",
+        meaning: "To forgive/forget someone for something done or for a disagreement. Example: I know we've had our fights over the years, but I think it's time we let bygone be bygones."
+    },
+     {
+        word: "Nepotism",
+        meaning: "The practice among those with power or influence of favoring relatives or friends, expecially by giving them jobs."
+    },
+     {
+        word: "Mull",
+        meaning: "To think about (a fact, proposal, or request) deeply and at length."
+    },
+     {
+        word: "Tenable",
+        meaning: "Able to maintained or defended against an attack or objection."
+    },
+     {
+        word: "Concoction",
+        meaning: "A mixture of various ingredients or elements. It can also be = An elaborate story, especially a fabrication."
+    },
+     {
+        word: "Efficacy",
+        meaning: "The ability to produce a desired or intended result."
+    },
+     {
+        word: "Consort",
+        meaning: "Habitually associated with someone typically with the disapproval of others."
+    },
+     {
+        word: "Derive",
+        meaning: "Obtain something from a specified source."
+    },
+     {
+        word: "Perplexed",
+        meaning: "Completely baffled; very puzzled."
+    },
+     {
+        word: "Elation",
+        meaning: "Great hapiness and exhilaration."
+    },
+     {
+        word: "Truce",
+        meaning: "An agreement between enemies or opponenets to stop fighting or arguing for a certain time."
+    },
+     {
+        word: "Protracted",
+        meaning: "Lasting for a long time or longer than expected or usual."
+    },
+     {
+        word: "Recourse",
+        meaning: "The use of someone or something as a source of help in a difficult situation."
+    },
+     {
+        word: "Wallop",
+        meaning: "Strike or hit (someone or something) very hard."
+    },
+     {
+        word: "Gaffe",
+        meaning: "An unintentional act or remart causing embarrassment to its originator, a bluder."
+    },
+     {
+        word: "Usurp",
+        meaning: "Take a (position or power or importance) illegally or by force."
+    },
+     {
+        word: "Courteous",
+        meaning: "Police, respectful, or considerate in manner."
+    },
+     {
+        word: "Colosal",
+        meaning: "Extremely large. E.g. A colosal amount of mail."
+    },
+     {
+        word: "Harangue",
+        meaning: "Lecture (someone) at length in an aggressive and critial manner. E.g. They were subjected to a ten-minute harangue by two border guards."
+    },
+     {
+        word: "Autonomy",
+        meaning: "The right or condition of self-goverment."
+    },
+     {
+        word: "Stupendous",
+        meaning: "Extremely impressive."
+    },
+     {
+        word: "Pinnacle",
+        meaning: "The most succesful point; the culmination. E.g. He had reached the pinnacle or his carrer."
+    },
+     {
+        word: "Pragmatic",
+        meaning: "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations."
+    },
+     {
+        word: "Pacifism",
+        meaning: "The belief that any violence, including war, is unjustified under any circumstances, and that all disputes should be settled by peaceful means."
+    },
+     {
+        word: "Hegemony",
+        meaning: "Leadership or dominance, especially by one country or social group over others."
+    },
+     {
+        word: "Aghast",
+        meaning: "Filled with horror or shock."
+    },
+     {
+        word: "Shun",
+        meaning: "Persistently, avoid, ignore, or reject (someone or something) through antipathy, or caution."
+    },
+     {
+        word: "Onus",
+        meaning: "Use to refer something that is one's duty or responsibility."
+    },
+     {
+        word: "Seamless",
+        meaning: "Smooth and continuous, with no apparent gaps or spaces between one part and the next."
+    },
+     {
+        word: "Apparently",
+        meaning: "As far as one knows or can see."
+    },
+     {
+        word: "Agile",
+        meaning: "Able to move quickly and easily."
+    },
+     {
+        word: "Prudent",
+        meaning: "Acting with or showing care and thought for the future."
+    },
+     {
+        word: "Insolent",
+        meaning: "Showing a rude and arrogant lack or respect."
+    },
+     {
+        word: "Tinker",
+        meaning: "Attempt to repair or improve something in a casual or desultory way, often to no useful effect."
+    },
+     {
+        word: "Prototype",
+        meaning: "An experimental process where design teams implement ideas into tangible forms from paper to digital."
+    },
+     {
+        word: "Boon",
+        meaning: "Benefit, or favor."
+    },
+     {
+        word: "Vicissitudes",
+        meaning: "A change of circumstances or fortune, typically one that is unwelcome or unpleasant."
+    },
+     {
+        word: "Fortitude",
+        meaning: "Strength or mind that enables a person to encounter danger or bear pain or adversity with courage."
+    },
+     {
+        word: "Succumb",
+        meaning: "Fail to resist pressure, tempetation, or some other negative force."
+    },
+     {
+        word: "Rouse",
+        meaning: "Bring our of sleep; awaken. Or cause to feel angry or excited."
+    },
+     {
+        word: "Itinerary",
+        meaning: "A planned route or journey. Or A travel document recording a route or journey. E.g. We wil lsend you an itinerary."
+    },
+     {
+        word: "Gawp",
+        meaning: "Stare openely in a stupid or rude manner."
+    },
+     {
+        word: "Curtail",
+        meaning: "Reduce in extent or quantity; impose a restriction on. E.g. Civil liberties were futher curtailed."
+    },
+     {
+        word: "Cringe",
+        meaning: "Have an inward feeling or acute emarrassment or awkwardness. E.g. I cringed at his stupidity."
+    },
+     {
+        word: "Benefactor",
+        meaning: "A person who gives money or other help to a person or cause."
+    },
+     {
+        word: "Semblance",
+        meaning: "The outward appearance or apparent form of somehting, especially when the reality is different. E.g. She tried to force her thoughts back into some sembelance or order."
+    },
+      {
+        word: "Loom",
+        meaning: "Appear as vague or shadowy form, especially one that is large or threatening."
+    },
+      {
+        word: "Formidable",
+        meaning: "Causing fear or respect through being impressively large, powerful, intense, or capable."
+    },
+      {
+        word: "Disquent",
+        meaning: "A feeling of anxiety or worry."
+    },    
 ]
