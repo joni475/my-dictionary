@@ -52,10 +52,6 @@ const dictionary = [
         meaning: "Something or someone that causes an important change or event to happen",
     },
     {
-        word: "Category",
-        meaning: "A group of people or things that are all of the same type - fall into, belong in.",
-    },
-    {
         word: "Heterogeneous",
         meaning: "Consisting of parts or members that are very different from each other",
     },
