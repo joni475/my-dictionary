@@ -2288,4 +2288,8 @@ const dictionary = [
         word: "Disquent",
         meaning: "A feeling of anxiety or worry."
     },    
+       {
+        word: "Exhortation",
+        meaning: "An address or communication emphatically, urging someone to do something."
+    },    
 ]
