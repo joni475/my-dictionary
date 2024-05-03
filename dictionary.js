@@ -2053,8 +2053,7 @@ const dictionary = [
     },
      {
         word: "permutation",
-        meaning: "A way, especially one of several possible variations, in which a set or number
-             of things can be ordered or arranged."
+        meaning: "A way, especially one of several possible variations, in which a set or number of things can be ordered or arranged."
     },
      {
         word: "Assert",
