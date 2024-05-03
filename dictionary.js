@@ -2307,6 +2307,5 @@ const dictionary = [
       {
         word: "Beseech",
         meaning: "Ask (someone) urgently and feverntly to do something; implore; entreat."
-    },
-    
+    },  
 ]
