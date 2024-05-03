@@ -2291,5 +2291,22 @@ const dictionary = [
        {
         word: "Exhortation",
         meaning: "An address or communication emphatically, urging someone to do something."
-    },    
+    },   
+    {
+        word: "Render",
+        meaning: "Provide or give"
+    },
+      {
+        word: "Feebleminded",
+        meaning: "Unable to make intelligent decisions or judgement."
+    },
+      {
+        word: "Unruly",
+        meaning: "Disorderly and disruptive and not amenable to discipline or control."
+    },
+      {
+        word: "Beseech",
+        meaning: "Ask (someone) urgently and feverntly to do something; implore; entreat."
+    },
+    
 ]
