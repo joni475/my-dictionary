@@ -4,6 +4,10 @@ const dictionary = [
         meaning: "A way in which a thing may be viewed or regarded.",
     },
     {
+        word: "Facade",
+        meaning: "The face of a building, especially the principal front that looks onto a street or open space. Second meaning - An outward appearance that is maintained to conceal a less pleasant or creditable reality."
+    },
+    {
         word: "Alleged",
         meaning: "(of an incident or a person) said, without proof, to have taken place or to have a specified illegal or undesirable quality."
     },
